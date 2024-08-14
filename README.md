@@ -11,7 +11,7 @@ Interactive UI: Users can easily navigate through the images, with options to vi
 <br>
 <b>Cross-Browser Compatibility:</b> The gallery functions smoothly across all major web browsers.
 <br>
-<b>Technologies Used</b>
+ # Technologies Used
 <br>
 <b>HTML:</b> Structured the content and layout of the gallery.
 <br>
