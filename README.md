@@ -19,7 +19,7 @@ Interactive UI: Users can easily navigate through the images, with options to vi
 <br>
 <b>JavaScript:</b> Added interactivity and dynamic features to the gallery.
 <br>
- # Usage
+# Usage
 <br>
 Clone the repository and open the index.html file in your browser to view the gallery. You can easily customize the images and layout by editing the HTML and CSS files.
 <br>
