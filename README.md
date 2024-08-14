@@ -25,7 +25,7 @@ Clone the repository and open the index.html file in your browser to view the ga
 <br>
 <h1>🖼️ Image Gallery</h1>
 <br>
-Check out my Image Gallery(https://adnanhashmii.github.io/Image_Gallery/), a project showcasing a clean and responsive layout designed to display a collection of images. This gallery is built with a focus on user experience, offering smooth navigation and an aesthetically pleasing interface. The project demonstrates my ability to create interactive and visually appealing web components, making it a great example of my frontend development skills.
+Check out my Image Gallery(https://github.com/AdnanHashmii/Image_Gallery_Codealpha_tasks.git), a project showcasing a clean and responsive layout designed to display a collection of images. This gallery is built with a focus on user experience, offering smooth navigation and an aesthetically pleasing interface. The project demonstrates my ability to create interactive and visually appealing web components, making it a great example of my frontend development skills.
 <br>
 <h1>Contributing</h1>
 <br>
