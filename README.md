@@ -23,7 +23,7 @@ Interactive UI: Users can easily navigate through the images, with options to vi
 <br>
 Clone the repository and open the index.html file in your browser to view the gallery. You can easily customize the images and layout by editing the HTML and CSS files.
 <br>
-<h1>🖼️ Hosted Image Gallery</h1>
+<h1>🖼️ Image Gallery</h1>
 <br>
 Check out my Image Gallery(https://adnanhashmii.github.io/Image_Gallery/), a project showcasing a clean and responsive layout designed to display a collection of images. This gallery is built with a focus on user experience, offering smooth navigation and an aesthetically pleasing interface. The project demonstrates my ability to create interactive and visually appealing web components, making it a great example of my frontend development skills.
 <br>
